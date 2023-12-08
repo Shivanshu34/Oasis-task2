@@ -1,5 +1,5 @@
 import java.util.*;
-public class guess {
+public class Guessinggame {
     public static void main(String[] args) {
         int number = (int) (Math.random() * 100);
         Scanner sc = new Scanner(System.in);
